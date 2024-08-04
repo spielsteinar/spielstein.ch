@@ -2,3 +2,4 @@ name: "Spiel Stein"
 description: "Karten-, Brett- und Gesellschafts-Spiele Verein in Stein AR"
 url: "spielstein.ch"
 show_downloads: false
+theme: jekyll-theme-cayman
