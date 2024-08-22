@@ -1,0 +1,9 @@
+
+# Project information
+site_name: SpeilStein
+site_url: https://spielstein.ch
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/spielstein.css
