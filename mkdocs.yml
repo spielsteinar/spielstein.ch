@@ -17,6 +17,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - About: about.md
+  - Verein: club/index.md
   - Blog:
     - blog/index.md
