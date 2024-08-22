@@ -4,6 +4,9 @@ site_name: SpielStein
 site_url: https://spielstein.ch
 theme:
   name: material
+  language: de
+  logo: assets/logo.svg
+  favicon: assets/logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
