@@ -4,6 +4,19 @@ site_name: SpielStein
 site_url: https://spielstein.ch
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
 
 extra_css:
   - stylesheets/spielstein.css
+
+plugins:
+  - blog
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Blog:
+    - blog/index.md
