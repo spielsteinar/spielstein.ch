@@ -47,7 +47,7 @@ Hagtobel 288
 ### **Austauschplattform**
 
 Whatsapp-Gruppe: Kontakt Thomas Solenthaler → Mail an [info@spielstein.ch](mailto:info@spielstein.ch) mit Mobilnummer.  
-Forum / Community: [Community / Forum Spiel Stein](https://spielstein.nodebb.com/)
+Forum / Community: [Community / Forum Spiel Stein](https://github.com/spielsteinar/spielstein.ch/discussions)
 
 # Spieletag / Spieleabende
 
