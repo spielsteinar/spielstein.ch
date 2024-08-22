@@ -9,8 +9,6 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    env:
-        CUSTOM_DOMAIN: spielstein.ch
     steps:
       - uses: actions/checkout@v4
       #- name: Configure Git Credentials
@@ -27,5 +25,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-material
+      - name: Deploy to GitHub Pages
+        env:
+          CUSTOM_DOMAIN: spielstein.ch
+        run: mkdocs gh-deploy --force
