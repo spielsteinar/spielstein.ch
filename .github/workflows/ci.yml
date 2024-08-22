@@ -9,6 +9,8 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+        CUSTOM_DOMAIN: spielstein.ch
     steps:
       - uses: actions/checkout@v4
       #- name: Configure Git Credentials
