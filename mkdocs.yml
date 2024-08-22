@@ -21,6 +21,10 @@ plugins:
 
 nav:
   - Home: index.md
-  - Verein: club/index.md
+  - Verein: 
+    - Der Verein: club/index.md
+    - Mitglieder: club/mitglied.md
+    - Statuten: club/statutes.md
+    - Mitglied werden: club/mitglied-werden.md
   - Blog:
     - blog/index.md
