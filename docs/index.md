@@ -1,4 +1,4 @@
-# ♟️🎲 ♣️ SpielStein
+# SpielStein
 
 # Was ist SpielStein (spielstein.ch)
 
