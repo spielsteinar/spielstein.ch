@@ -1,2 +1,0 @@
-
-# Neuer Blog Posts
