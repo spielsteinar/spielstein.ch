@@ -8,6 +8,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
+  custom_dir: overrides
 
 extra_css:
   - stylesheets/spielstein.css

@@ -7,6 +7,7 @@ categories:
 description: >
   We are transforming Material for MkDocs to ensure its community continues to thrive and doubling down on our commitment to Open Source.
 title: Willkommen bei SpielStein
+comments: true
 ---
 
 # Willkommen bie Spielstein
