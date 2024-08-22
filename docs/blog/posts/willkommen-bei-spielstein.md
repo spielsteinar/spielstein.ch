@@ -9,6 +9,6 @@ description: >
 title: Willkommen bei SpielStein
 ---
 
-# Willkommen bie Speilstein
+# Willkommen bie Spielstein
 
 Die SpielStein Webseite wird aufgebaut um eine Anlaufstelle für interessierte Personen zu schaffen.
