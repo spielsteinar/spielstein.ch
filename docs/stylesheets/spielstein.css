@@ -1,5 +1,6 @@
 
 
 .md-header {
-    background-color: var(--md-default-fg-color--lighter);
+    background-color: white;
+    color: black;
 }
