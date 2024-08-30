@@ -31,3 +31,5 @@ nav:
     - Mitglied werden: club/mitglied-werden.md
   - Blog:
     - blog/index.md
+  - Spiele: spiele/index.md
+  - Events: events/index.md
