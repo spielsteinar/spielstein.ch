@@ -4,12 +4,15 @@ site_name: Spiel Stein
 site_url: https://spielstein.ch
 theme:
   name: material
-  language: de
   logo: assets/logo.svg
   favicon: assets/logo.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.tracking
+    - navigation.indexes
+    - content.tabs.link
+    - content.code.copy
     - toc.integrate
   custom_dir: overrides
 
@@ -23,8 +26,8 @@ nav:
   - Home: index.md
   - Verein: 
     - Der Verein: club/index.md
-    - Mitglieder: club/mitglied.md
-    - Statuten: club/statutes.md
+    - Mitglieder: club/mitglieder.md
+    - Statuten: club/statuten.md
     - Mitglied werden: club/mitglied-werden.md
   - Blog:
     - blog/index.md
