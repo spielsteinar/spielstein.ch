@@ -29,7 +29,7 @@ nav:
     - Mitglieder: club/mitglieder.md
     - Statuten: club/statuten.md
     - Mitglied werden: club/mitglied-werden.md
-  - Blog:
-    - blog/index.md
   - Spiele: spiele/index.md
   - Events: events/index.md
+  - Blog:
+    - blog/index.md

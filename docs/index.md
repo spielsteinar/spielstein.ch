@@ -4,10 +4,10 @@ Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kar
 
 # Ziele des Vereins
 
-* Die  Gemeinschaft zu fördern. Gemeinsame treffen  
-* Neue Spiele zu entdecken.  
+* Die  Gemeinschaft zu fördern. Gemeinsame treffen.
+* Neue Spiele zu entdecken.
 * Aber auch alte Spiele wieder zusammen zu spielen.  
-* Evlt. Spiele Auszuleihen / Tauschen  
+* Spiele auszuleihen / tauschen  
 * untereinander Spieleabende vereinbaren
 
 → Link zu den Statuten.
