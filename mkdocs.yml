@@ -23,7 +23,7 @@ plugins:
   - blog
 
 nav:
-  - Home: index.md
+  - : index.md
   - Verein: 
     - Der Verein: club/index.md
     - Mitglieder: club/mitglieder.md
