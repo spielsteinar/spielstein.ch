@@ -9,6 +9,7 @@ theme:
   name: material
   logo: assets/logo.svg
   favicon: assets/logo.png
+  language: de
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -19,6 +20,9 @@ theme:
     - content.action.view
     - content.action.edit
     - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
   icon:
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
     edit: material/pencil
@@ -37,6 +41,7 @@ plugins:
   - git-committers:
       repository: spielsteinar/spielstein.ch
   - git-authors
+  - search
 
 nav:
   - Home: index.md
