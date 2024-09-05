@@ -7,7 +7,8 @@
 ``` mermaid
 graph TD
     Person --->|hat|Spiel
-    Event["Speilabend"]
+    Event["Spielabend"]
     Person -->|nimmt teil an|Event
     Event -->|wird gespielt|Spiel
+    Spiel -->|wird ausgeliehen an|Person
 ```
