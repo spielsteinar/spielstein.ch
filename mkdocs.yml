@@ -33,15 +33,15 @@ extra_css:
   - stylesheets/spielstein.css
 
 plugins:
+  - search
   - blog
   - git-revision-date-localized:
       enable_creation_date: false
-      type: date
-      format: '%d.%m.%Y'
+      type: datetime
+      format: "%d.%m.%Y"
   - git-committers:
       repository: spielsteinar/spielstein.ch
   - git-authors
-  - search
 
 nav:
   - Home: index.md
