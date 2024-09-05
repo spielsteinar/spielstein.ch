@@ -16,8 +16,13 @@ theme:
     - navigation.indexes
     - content.tabs.link
     - content.code.copy
+    - content.action.view
     - content.action.edit
     - toc.integrate
+  icon:
+    # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
+    edit: material/pencil
+    view: material/eye
   custom_dir: overrides    
 
 extra_css:
