@@ -14,15 +14,17 @@ theme:
     - navigation.indexes
     - content.tabs.link
     - content.code.copy
+    - content.action.edit
     - toc.integrate
-  custom_dir: overrides
+  custom_dir: overrides    
 
 extra_css:
   - stylesheets/spielstein.css
 
 plugins:
   - blog
-
+  - git-revision-date-localized:
+      enable_creation_date: true
 nav:
   - Home: index.md
   - Verein: 
