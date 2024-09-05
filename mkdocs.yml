@@ -2,6 +2,7 @@
 # Project information
 site_name: Spiel Stein
 site_url: https://spielstein.ch
+repo_url: https://github.com/spielsteinar/spielstein.ch
 theme:
   name: material
   logo: assets/logo.svg
