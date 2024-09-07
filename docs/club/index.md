@@ -1,4 +1,4 @@
-# Was ist SpielStein (spielstein.ch)
+# Was ist Spiel Stein
 
 Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kartenspiele, Brettspiele oder andere Gesellschaftspiele gespielt werden.
 
@@ -10,7 +10,7 @@ Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kar
 * Evlt. Spiele Auszuleihen / Tauschen  
 * untereinander Spieleabende vereinbaren
 
-→ Link zu den Statuten.
+[Link zu den Statuten](statuten).
 
 ⚠️Hinweis:  
 Der Verein ist noch nicht gegründet.  
