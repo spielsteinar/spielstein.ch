@@ -2,8 +2,8 @@
 # Project information
 site_name: Spiel Stein
 site_url: https://spielstein.ch
-repo_url: https://github.com/spielsteinar/spielstein.ch
-repo_name: spielstein.ch
+#repo_url: https://github.com/spielsteinar/spielstein.ch
+#repo_name: spielstein.ch
 edit_uri: edit/main/docs/
 theme:
   name: material
