@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 ---
 
 # Spielabende und Spieltage
@@ -17,7 +17,8 @@ Melde deinen Spielabend oder Spieltag [hier](https://github.com/spielsteinar/spi
     Organisator ist der [Frauenverein Stein AR](https://www.stein-ar.ch/vereinsliste/7199)
 
 
-
+<!-- Testing -->
+<!-- 
 <script src="https://giscus.app/client.js"
         data-repo="spielsteinar/spielstein.ch"
         data-repo-id="R_kgDOMewAeQ"
@@ -33,3 +34,4 @@ Melde deinen Spielabend oder Spieltag [hier](https://github.com/spielsteinar/spi
         crossorigin="anonymous"
         async>
 </script>
+-->
