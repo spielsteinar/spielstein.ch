@@ -9,7 +9,7 @@ tags:
     "@context": "https://schema.org",
     "@type": "Game",
     "name": "Dorfromantik",
-    "description": "Die Spielzeit beträgt typischerweise zwischen 30 und 60 Minuten."
+    "description": "Die Spielzeit beträgt typischerweise zwischen 30 und 60 Minuten.",
     "typicalAgeRange": "8+",
     "timeRequired": "PT45M",
     "numberOfPlayers":{
@@ -36,3 +36,6 @@ Die Spielzeit beträgt typischerweise zwischen 30 und 60 Minuten.
 ## Wer hat dieses Spiel / Wo kann ich es ausleihen
 
 * Thomas
+
+
+## QR-Code zu diesem Spiel
