@@ -34,6 +34,7 @@ extra_css:
 
 plugins:
   - search
+  - tags
   - blog
   - git-revision-date-localized:
       enable_creation_date: false
@@ -50,7 +51,7 @@ nav:
     - Mitglieder: club/mitglieder.md
     - Statuten: club/statuten.md
     - Mitglied werden: club/mitglied-werden.md
-  - Spiele: spiele/index.md
+  - Spiele: spiele.md
   - Veranstaltungen: events/index.md
   - Blog:
     - blog/index.md
