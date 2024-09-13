@@ -30,7 +30,7 @@ Die Spielzeit beträgt typischerweise zwischen 30 und 60 Minuten.
 ## Meta-Daten
 
 * Alter ab: 8+
-* Spieldauer: 30-60
+* Spieldauer: 30-60min
 * Anzahl Spieler: 1-6
 
 ## Wer hat dieses Spiel / Wo kann ich es ausleihen

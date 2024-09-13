@@ -32,3 +32,8 @@ graph TD
     Location["Veranstaltungs-Ort"]
     Event -->|findet statt bei|Location
 ```
+
+
+## Notizen von Ideen
+
+* QR-Code Scann mit direkt Link zu den Spiel-Daten bspw. https://spielstein.ch/spiele/dorfromantik/
