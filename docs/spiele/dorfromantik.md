@@ -12,6 +12,7 @@ tags:
     "description": "Die Spielzeit beträgt typischerweise zwischen 30 und 60 Minuten.",
     "typicalAgeRange": "8+",
     "timeRequired": "PT45M",
+    "duration": "PT45M",
     "numberOfPlayers":{
         "@type":"QuantitativeValue",
         "minValue":"1",
