@@ -57,6 +57,7 @@ nav:
     - blog/index.md
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences

@@ -10,3 +10,5 @@ oder
 
 → Jetzt als Mitglied melden bei [info@spielstein.ch](mailto:info@spielstein.ch)  
 PS: Am besten mit Telefonnummer bzw. Mobilnummer für eine Whatsapp-Gruppe.
+
+[Jetzt Mitglied werden](mailto:info@spielstein.ch){ .md-button .md-button--primary }
