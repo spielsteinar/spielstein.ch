@@ -74,7 +74,9 @@ Tische und Stühle werden zusammen aufgestellt und wieder aufgeräumt.
 
 ## **Wie werden die Kosten gedeckt?**
 
-Die Kosten für den Aktivraum pro Tag betragen für einheimische Vereine CHF 150.-.
+Die Kosten für den [Aktivraum] pro Tag betragen für einheimische Vereine CHF 150.-. Private CHF 225.-.
+
+[Aktivraum](https://www.schulen-stein-ar.ch/verwaltung/gesuch-raumbenuetzung/p-69/)
 
 Jeder Teilnehmer zahlt einen Beitrag von CHF 10.-  
 Bspw.   
