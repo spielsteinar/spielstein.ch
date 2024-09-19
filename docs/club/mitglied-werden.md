@@ -4,7 +4,7 @@
 Mitglieder kann jeder werden, die gerne Brett-, Karten oder Gesellschaftsspiele spielen.  
 Der jährliche Beitrag beträgt CHF 20.-.
 
-Einfach Spielabend besuchen und sich bei den Organisatoren melden
+Einfach Spielabend besuchen und sich bei den Organisatoren melden.
 
 oder
 
