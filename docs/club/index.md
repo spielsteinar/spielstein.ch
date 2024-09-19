@@ -12,7 +12,6 @@ Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kar
 
 [Link zu den Statuten](statuten).
 
-
 !!! note "⚠️Hinweis:"
  
     Der Verein ist noch nicht gegründet.  

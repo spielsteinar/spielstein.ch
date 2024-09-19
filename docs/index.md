@@ -10,15 +10,16 @@ Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kar
 * Spiele auszuleihen / tauschen  
 * untereinander Spieleabende vereinbaren
 
-[zu den Statuten]{ .md-button .md-button--primary } (Entwurf)
+[zu den Statuten]{ .md-button .md-button--primary }
 
 [zu den Statuten]: club/statuten.md
 
-⚠️Hinweis:  
-Der Verein ist noch nicht gegründet.  
-Interessenten können sich gerne als Mitglieder melden.  
-Es werden dann Sitzungen und eine Hauptversammlung organisiert, um die Statuten zu besprechen und abzunehmen.
-
+!!! note "⚠️Hinweis:"
+ 
+    Der Verein ist noch nicht gegründet.  
+    Interessenten können sich gerne als Mitglieder melden.  
+    Es werden dann Sitzungen und eine Hauptversammlung organisiert, um die Statuten zu besprechen und abzunehmen.
+    
 # Wann
 
 * evtl. wöchentlich einen Spieleabend (bspw. Freitag Abend)  
