@@ -45,8 +45,11 @@ plugins:
   - git-authors
 
 nav:
-  - Home: index.md
-  - Verein: 
+  - Home:
+    - index.md
+    - Spielabend: events/spielabend.md
+    - Mitglied werden: club/mitglied-werden.md
+  - Verein:
     - Der Verein: club/index.md
     - Mitglieder: club/mitglieder.md
     - Statuten: club/statuten.md
