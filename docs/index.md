@@ -10,7 +10,9 @@ Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kar
 * Spiele auszuleihen / tauschen  
 * untereinander Spieleabende vereinbaren
 
-→ Link zu den Statuten.
+[zu den Statuten]{ .md-button .md-button--primary } (Entwurf)
+
+[zu den Statuten]: club/statuten.md
 
 ⚠️Hinweis:  
 Der Verein ist noch nicht gegründet.  
