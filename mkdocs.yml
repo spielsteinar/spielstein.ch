@@ -55,7 +55,9 @@ nav:
     - Statuten: club/statuten.md
     - Mitglied werden: club/mitglied-werden.md
   - Spiele: spiele.md
-  - Veranstaltungen: events/index.md
+  - Veranstaltungen: 
+    - events/index.md
+    - Spielabend: events/spielabend.md
   - Blog:
     - blog/index.md
 

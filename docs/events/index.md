@@ -8,7 +8,8 @@ Liste der Veranstaltungen von unserem Verein und Personen, an welchen wir Spiele
 
 
 
-Melde deinen Spielabend oder Spieltag [hier](https://github.com/spielsteinar/spielstein.ch/discussions/categories/veranstaltung)
+Melde deinen Spielabend oder Spieltag.
+[Spielabend melden](https://docs.google.com/forms/d/e/1FAIpQLSdKcUtD8SynHjB7X-ITrudSGMqNvi_XcgYzIAZaO1iyqjA3bg/viewform?usp=sf_link){ .md-button .md-button--primary }
 
 
 

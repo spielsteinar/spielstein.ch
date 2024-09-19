@@ -1,6 +1,9 @@
 # Statuten des Vereins Spiel Stein
 
-Dies ist ein Entwurf.
+!!! note "Hinweis"
+
+    Dies ist ein Entwurf.
+
 
 ## Artikel 1: Name und Sitz
 
