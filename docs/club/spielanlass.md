@@ -1,5 +1,5 @@
 
-# Spielanlass bzw. Spieletag / Spieleabende
+# Spielanlass bspw. Spieltag / Spielabende
 
 ## **Wann**
 
