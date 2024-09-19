@@ -19,7 +19,7 @@ Ein Verein, der Spieleabende oder Spieltage in Stein AR organisiert, bei dem Kar
     Der Verein ist noch nicht gegründet.  
     Interessenten können sich gerne als Mitglieder melden.  
     Es werden dann Sitzungen und eine Hauptversammlung organisiert, um die Statuten zu besprechen und abzunehmen.
-    
+
 # Wann
 
 * evtl. wöchentlich einen Spieleabend (bspw. Freitag Abend)  
@@ -51,43 +51,3 @@ Hagtobel 288
 
 Whatsapp-Gruppe: Kontakt Thomas Solenthaler → Mail an [info@spielstein.ch](mailto:info@spielstein.ch) mit Mobilnummer.  
 Forum / Community: [Community / Forum Spiel Stein](https://github.com/spielsteinar/spielstein.ch/discussions)
-
-# Spieletag / Spieleabende
-
-## **Wann**
-
-### **Spieltag**
-
-Bisherige Vorstellung ist für Spieltag ist Samstag Vormittag ab 09:00 Uhr bis ca. 12 Uhr.  
-Wenn ein Mitglied länger Zeit hat, kann auch länger gespielt werden.  
-→ Das letzte Mitglied gibt den Aktivraum besenrein ab.
-
-### **Oder Spielabend**
-
-Freitag Abend ab ca. 16/17 Uhr bis ca. 22 Uhr. Je nach Bedarf.  
-→ Das letzte Mitglied gibt den Aktivraum besenrein ab.
-
-## **Wie funktioniert der Spieltag/Spielabend im Aktivraum?**
-
-Jeder kann sein Lieblingsspiel mitbringen.   
-Anderen zeigen und vorstellen. Hinweis: Bitte Spiele anschreiben\!  
-Tische und Stühle werden zusammen aufgestellt und wieder aufgeräumt.
-
-## **Wie werden die Kosten gedeckt?**
-
-Die Kosten für den [Aktivraum] pro Tag betragen für einheimische Vereine CHF 150.-. Private CHF 225.-.
-
-[Aktivraum](https://www.schulen-stein-ar.ch/verwaltung/gesuch-raumbenuetzung/p-69/)
-
-Jeder Teilnehmer kann freiwilig einen Beitrag zahlen.
-Bspw.   
-15 Teilnehmer x CHF 10.- = CHF 150.-  
-24 Teilnehmer x CHF 10.- = CHF 240.-
-
-Der Gewinn fließt in den Unterhalte der Webseite / Community, Vorbereitungen nächsten Spieltage, mögliche Beschaffungen von neuen Spielen oder wird als Reserve angelegt, um mögliche Verluste zu decken.
-
-## **Getränke und Verpflegung**
-
-Die Idee ist es, den Wagen 3 anzufragen, ob dieser für Getränke und kleine Verpflegung sorgt.  
-Ansonsten muss dies durch den Verein bereitgestellt werden (Bspw. die Getränke und kleine Verpflegung).
-
