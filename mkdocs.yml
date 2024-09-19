@@ -45,7 +45,7 @@ plugins:
   - git-authors
 
 nav:
-  - Home:
+  - Willkommen:
     - index.md
     - Spielabend: events/spielabend.md
     - Mitglied werden: club/mitglied-werden.md
