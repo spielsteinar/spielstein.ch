@@ -78,10 +78,10 @@ Die Kosten für den [Aktivraum] pro Tag betragen für einheimische Vereine CHF 1
 
 [Aktivraum](https://www.schulen-stein-ar.ch/verwaltung/gesuch-raumbenuetzung/p-69/)
 
-Jeder Teilnehmer zahlt einen Beitrag von CHF 10.-  
+Jeder Teilnehmer kann freiwilig einen Beitrag zahlen.
 Bspw.   
-15 Teilnehmer x CHF 10.-  \= CHF 150.-  
-24 Teilnehmer x CHF 10.-  \= CHF 240.-
+15 Teilnehmer x CHF 10.- = CHF 150.-  
+24 Teilnehmer x CHF 10.- = CHF 240.-
 
 Der Gewinn fließt in den Unterhalte der Webseite / Community, Vorbereitungen nächsten Spieltage, mögliche Beschaffungen von neuen Spielen oder wird als Reserve angelegt, um mögliche Verluste zu decken.
 
